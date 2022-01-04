@@ -101,67 +101,33 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "Doug",
+      "species": "Rock",
+      "diet": "herbivore",
       "personalityTraits": [
         "hungry"
       ],
       "id": "10"
     },
     {
-      "name": "Bofo",
-      "species": "Buffalo",
-      "diet": "omnivore",
+      "name": "Doug Jesus",
+      "species": "Rock Man",
+      "diet": "herbivore",
       "personalityTraits": [
-        "ornery"
+        "hungry",
+        "zany"
       ],
       "id": "11"
     },
     {
-      "name": "Captain",
-      "species": "Kangaroo",
-      "diet": "herbavore",
+      "name": "CheeseBeast",
+      "species": "Australian Humpbacked Mouse",
+      "diet": "carnivore",
       "personalityTraits": [
-        "kicks hard"
+        "hungry",
+        "anxious"
       ],
       "id": "12"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hung3ry"
-      ],
-      "id": "14"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "1",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "15"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "A",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "16"
     }
   ]
 }
